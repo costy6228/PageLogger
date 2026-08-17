@@ -1,1 +1,1 @@
-{"name":"PageLogger","short_name":"PageLogger","description":"Private personal reading tracker","start_url":"./index.html","display":"standalone","background_color":"#f5f4f0","theme_color":"#171717","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
+{"name":"PageLogger","short_name":"PageLogger","description":"Private personal reading tracker","start_url":"./index.html","display":"standalone","background_color":"#f5f4f0","theme_color":"#f5f4f0","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}

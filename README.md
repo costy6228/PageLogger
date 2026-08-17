@@ -1,20 +1,22 @@
-# PageLogger v2
+# PageLogger v3
 
-Personal reading tracker / installable PWA.
+Private, local-first personal reading tracker / installable PWA.
 
-Features:
-- Books, authors, cover URLs, genres, notes and 1–5 star ratings
-- Page progress and status
-- Start/finish dates
-- Reading timer + manual logging
-- Pages/hour and average session statistics
-- Daily/7-day charts and 12-week heatmap
-- Monthly page and yearly book goals
-- Reading streaks
-- Search and library filters
-- Dark mode
-- Local-only data
-- JSON backup/export and restore
-- Installable as an iPhone Home Screen web app
+## Improvements
+- More useful home dashboard with daily goals and reading insights
+- Fast reading-session logging from the home screen
+- Rich book detail view with per-book statistics and session history
+- Expanded statistics including weekly comparisons and longest streak
+- Reading intelligence: average pace, best reading day and weekly trends
+- Daily pages, daily minutes, weekly reading-day, monthly-page and yearly-book goals
+- Reading streak and longest-streak tracking
+- Searchable/filterable history with sorting
+- Edit or delete individual reading sessions
+- Custom app background and card colours, plus presets
+- Existing light/dark mode retained
+- Existing localStorage data remains compatible with the same `pagelogger-v2` key
+- JSON backup/export and restore retained
+- Installable PWA with updated service-worker cache version
 
+## Privacy
 No login or server database is required. Reading data is stored in localStorage on the device/browser.
